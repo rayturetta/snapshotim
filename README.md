@@ -73,7 +73,7 @@ pip install -r requirements.txt
 
 ### 4. Gerar o executável
 ```bash
-pyinstaller --noconfirm --onefile --windowed --strip snapshotim.py
+pyinstaller --noconfirm --onefile --windowed snapshotim.py
 ```
 
 ### 5. Resultado
