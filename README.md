@@ -61,7 +61,7 @@ captura_fulano_09-07-2025 15-32-10.png
 python -m venv venv
 ```
 
-### 1. Criar o ambiente virtual
+### 2. Ativar o ambiente virtual no Windows
 ```bash
 venv\Scripts\activate
 ```
