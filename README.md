@@ -73,9 +73,9 @@ pip install -r requirements.txt
 
 ### 4. Gerar o executável
 ```bash
-pyinstaller --noconfirm --onefile --windowed snapshotim.py
+pyinstaller --noconfirm --onefile --windowed  --name SnapshotIM app.py
 ```
 
 ### 5. Resultado
 O executável será gerado em:
-dist/snapshotim.exe
+dist/SnapshotIM.exe

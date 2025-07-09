@@ -111,7 +111,7 @@ def executar_captura(janela):
 
 def mostrar_janela():
     root = tk.Tk()
-    root.title("Captura de Tela Antifraude")
+    root.title("SnapshotIM")
     root.geometry("300x150")
     root.resizable(False, False)
 
