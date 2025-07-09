@@ -91,7 +91,7 @@ def salvar_imagem(imagem, usuario):
     data_hora = datetime.now().strftime("%d-%m-%Y %H:%M:%S")
     texto = f"{data_hora} | Usuário: {usuario}"
     adicionar_marca_dagua(imagem, texto)
-    nome_arquivo = f"captura_monitores_{usuario}_{data_hora}.png".replace(":", "-")
+    nome_arquivo = f"captura_{usuario}_{data_hora}.png".replace(":", "-")
     imagem.convert("RGB").save(nome_arquivo)
     print(f"✅ Captura salva: {nome_arquivo}")
     messagebox.showinfo("Captura feita", f"✅ Captura salva como:\n{nome_arquivo}")
