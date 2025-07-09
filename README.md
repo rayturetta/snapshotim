@@ -36,7 +36,7 @@ A marca d’água é aplicada de forma vertical, com repetição, passando inclu
 
 ## 🚀 Como usar
 
-1. **Clique duas vezes** no executável `snapshotim.exe`.
+1. **Clique duas vezes** no executável `SnapshotIM.exe`.
 2. Clique no botão `📸 Capturar Tela`.
 3. Se nenhuma aplicação estiver em F11, a imagem será salva com marca d’água.
 
