@@ -42,7 +42,7 @@ A marca d’água é aplicada de forma vertical, com repetição, passando inclu
 
 A captura será salva no mesmo diretório do executável, com nome como:
 
-captura_fulano_09-07-2025 15-32-10.png
+captura_fulano_09-07-2025 19-32-10.png
 
 ---
 
